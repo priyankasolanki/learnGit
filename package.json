@@ -1,0 +1,23 @@
+{
+  "name": "learngit",
+  "version": "1.0.0",
+  "description": "My First Node App to Transfer to NPMJS.COM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankasolanki/learnGit.git"
+  },
+  "keywords": [
+    "myfirstapp",
+    "gittranfer"
+  ],
+  "author": "priyanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankasolanki/learnGit/issues"
+  },
+  "homepage": "https://github.com/priyankasolanki/learnGit#readme"
+}
